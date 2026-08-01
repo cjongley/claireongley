@@ -5,6 +5,7 @@ builds at Inner West Council) and personal (crafting, gaming), with a
 block-pattern divider between sections coloured from an actual Blue
 Lily Bargello quilt fabric pull.
 
+
 ## About this site
 
 One scrolling page, five sections:
@@ -13,9 +14,11 @@ One scrolling page, five sections:
 - **Work** — what you do at Inner West Council: training, agent
   builds, the technical hub.
 - **Education** — what i've learnt and what im currently learning 
+- **Education** - what i'm learning and have learnt
 - **Crafting** — current quilting and knitting projects.
 - **Gaming** — what you're playing right now.
 - **Say hi** — email, GitHub, LinkedIn, Seek
+- **Say hi** — email, GitHub, LinkedIn.
 
 ## Files
 
