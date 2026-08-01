@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const firstSetItems = items.slice(0, setCount);
 
   const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const LOOP_MS = 70000; // matches the original 70s full-loop speed
+  const LOOP_MS = 70000; 
 
   let halfWidth = 0;
   let boundaries = [];
